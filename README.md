@@ -18,8 +18,6 @@
  Flutter Spinkit
 ```
 
-### To Use
-Download the .apk files which will be uploaded soon
 ### To run on IDE:
 Clone this repository
 In android studio, 
